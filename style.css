@@ -1,0 +1,74 @@
+*{box-sizing: border-box;font-family: arial;color: #000000;}
+.main{
+	background: #ffffff;
+	margin: 0 auto;
+	width: 50%;
+	text-align: center;
+	font-size: 18px;
+}
+.content{
+	background: #a9a9a9;
+	width: 100%;
+	padding: 40px 0 20px 0;
+}
+.txt_left{
+	width: 85%;
+	float: left;
+	margin-left:20px;
+}
+.txt_right{
+	width: 10%;
+	float: left;
+}
+img{
+	width: 438px;
+	height: auto;
+}
+.txt_footer{
+	width: 90%;
+	font-size: 14px;
+	color: #a9a9a9;
+	margin: 5px auto;
+}
+.foto1{
+	width: 440px;
+	height: 380px;
+	margin: 0 auto;
+	background: #ffffff;
+	border: 1px solid #000000;
+}
+.foto2{
+	width: 440px;
+	height: 380px;
+	margin: 40px auto;
+	background: #ffffff;
+	border: 1px solid #000000;
+}
+.foto3{
+	width: 440px;
+	height: 380px;
+	margin: 40px auto;
+	background: #ffffff;
+	border: 1px solid #000000;
+}
+.foto4{
+	width: 440px;
+	height: 380px;
+	margin: 40px auto;
+	background: #ffffff;
+	border: 1px solid #000000;
+}
+.foto5{
+	width: 440px;
+	height: 380px;
+	margin: 40px auto;
+	background: #ffffff;
+	border: 1px solid #000000;
+}
+.foto6{
+	width: 440px;
+	height: 380px;
+	margin: 40px auto;
+	background: #ffffff;
+	border: 1px solid #000000;
+}
